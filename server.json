@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Felipe",
+            "date_nasc": 1997,
+            "avatar": "url foto"   
+        }
+    ]
+}
